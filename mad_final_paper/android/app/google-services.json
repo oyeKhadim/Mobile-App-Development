@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943537906054",
+    "project_id": "mad-final-paper-786",
+    "storage_bucket": "mad-final-paper-786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943537906054:android:2c3294097998947c708c07",
+        "android_client_info": {
+          "package_name": "com.example.mad_final_paper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaddOvIKPMxQzdn5YZt056AsXlR3xAVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
